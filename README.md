@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balasurya Ganesamoorthi</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">I code for fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f1-surya&label=Profile%20views&color=0e75b6&style=flat" alt="f1-surya" /> </p>
 
