@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f1-surya&label=Profile%20views&color=0e75b6&style=flat" alt="f1-surya" /> </p>
 
-- 💬 Ask me about **flutter, react, express and android**
+- 💬 Ask me about **react, express and android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
